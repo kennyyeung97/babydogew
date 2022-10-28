@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbdD4e5f396B58248f3f57A9616e51b85b03B302A",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0xbdD4e5f396B58248f3f57A9616e51b85b03B302A",
+  "NETWORK": {
+    "NAME": "Ethereum PoW",
+    "SYMBOL": "ETHW",
+    "ID": 5
+  },
+  "NFT_NAME": "Babydogew NFT",
+  "SYMBOL": "Babydogew",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Nuwton",
+  "MARKETPLACE_LINK": "https://www.nuwton.io/",
+  "SHOW_BACKGROUND": true
+}
