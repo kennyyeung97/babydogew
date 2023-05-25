@@ -12,7 +12,7 @@
   "WEI_COST": 1000000000000000,
   "DISPLAY_COST": 0.001,
   "GAS_LIMIT": 300000,
-  "MARKETPLACE": "Nuwton",
-  "MARKETPLACE_LINK": "https://www.nuwton.io/",
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
   "SHOW_BACKGROUND": true
 }
